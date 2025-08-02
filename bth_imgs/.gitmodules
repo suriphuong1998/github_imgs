@@ -1,3 +1,0 @@
-git clone https://github.com/suriphuong1998/github_imgs.git
-cd github_imgs
-git submodule update --init --recursive
