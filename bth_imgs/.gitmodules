@@ -1,3 +1,3 @@
-git clone https://github.com/suriphuong1998/main_repo.git
-cd main_repo
+git clone https://github.com/suriphuong1998/github_imgs.git
+cd github_imgs
 git submodule update --init --recursive
