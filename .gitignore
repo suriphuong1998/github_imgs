@@ -14,3 +14,4 @@ node_modules
 *.zip
 .git
 server.cfg
+.gitmodules
